@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nevzat Anıl Talay</h1>
-<h3 align="center">new Data Scientist from Turkey</h3>
+<h3 align="center"> Im.Processing Engineer and Data Scientist from Turkey</h3>
 
-- 🔭 I’m currently working on [Udacity Data Scientist Project](https://github.com/NevzatTalay)
+- 🔭 I'have been working on some fun projects. Come and check my repositories.
 
-- 🌱 I’m currently learning **Data Science**
+- 🔭 I’was working on [Udacity Data Scientist Project](https://github.com/NevzatTalay/Capstone-Data-Scientist-Project-Sparkify)
+
+- 🌱 I’m currently learning **Data Science and Image Processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NevzatTalay](https://github.com/NevzatTalay)
 
